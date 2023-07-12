@@ -1,5 +1,14 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/kubdatalab/kubdatalab.r-universe.dev
 	branch = HEAD
+[submodule "curl"]
+	path = curl
+	url = https://github.com/jeroen/curl
+[submodule "pdftools"]
+	path = pdftools
+	url = https://github.com/ropensci/pdftools
+[submodule "stringdist"]
+	path = stringdist
+	url = https://github.com/markvanderloo/stringdist
+	subdir = pkg
