@@ -1,0 +1,10 @@
+{
+  "id": 39550839,
+  "created_at": "2023-07-12T07:00:21.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["datasets"]
+}
