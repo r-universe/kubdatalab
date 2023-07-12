@@ -5,10 +5,6 @@
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
-[submodule "pdftools"]
-	path = pdftools
-	url = https://github.com/ropensci/pdftools
-[submodule "stringdist"]
-	path = stringdist
-	url = https://github.com/markvanderloo/stringdist
-	subdir = pkg
+[submodule "ggbiplot"]
+	path = ggbiplot
+	url = https://github.com/vqv/ggbiplot
