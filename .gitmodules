@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/kubdatalab/kubdatalab.r-universe.dev
 	branch = HEAD
+[submodule "StaRmanlyrics"]
+	path = StaRmanlyrics
+	url = https://github.com/KUBDatalab/StaRmanlyrics
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
 [submodule "ggbiplot"]
 	path = ggbiplot
 	url = https://github.com/vqv/ggbiplot
-[submodule "staRmanlyrics"]
-	path = staRmanlyrics
-	url = https://github.com/KUBDatalab/StaRmanlyrics
