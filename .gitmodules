@@ -8,3 +8,6 @@
 [submodule "ggbiplot"]
 	path = ggbiplot
 	url = https://github.com/vqv/ggbiplot
+[submodule "staRmanlyrics"]
+	path = staRmanlyrics
+	url = https://github.com/KUBDatalab/StaRmanlyrics
