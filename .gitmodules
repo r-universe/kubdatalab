@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/kubdatalab/kubdatalab.r-universe.dev
 	branch = HEAD
+[submodule "KUBDatalab"]
+	path = KUBDatalab
+	url = https://github.com/KUBDatalab/KUBDatalab
 [submodule "StaRmanlyrics"]
 	path = StaRmanlyrics
 	url = https://github.com/KUBDatalab/StaRmanlyrics
