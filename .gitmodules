@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/kubdatalab/kubdatalab.r-universe.dev
 	branch = HEAD
+[submodule "KBAPIR"]
+	path = KBAPIR
+	url = https://github.com/KUBDatalab/KBAPI
 [submodule "KUBDatalab"]
 	path = KUBDatalab
 	url = https://github.com/KUBDatalab/KUBDatalab
