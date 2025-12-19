@@ -20,3 +20,6 @@
 [submodule "ggbiplot"]
 	path = ggbiplot
 	url = https://github.com/vqv/ggbiplot
+[submodule "ggdatalab"]
+	path = ggdatalab
+	url = https://github.com/KUBDatalab/ggdatalab
